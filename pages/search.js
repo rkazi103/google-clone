@@ -22,6 +22,7 @@ const Search = ({ results }) => {
 };
 
 export const getServerSideProps = async (context) => {
+  // Change based on development or in production
   const useDummyData = true;
   const startIndex = context.query.start || "0";
 
