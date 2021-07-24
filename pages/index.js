@@ -37,7 +37,7 @@ export default function Home() {
           <p className="link">Images</p>
           <ViewGridIcon className="h-10 w-10 p-2 rounded-full hover:bg-gray-100 cursor-pointer" />
 
-          <Avatar url="https://lh3.googleusercontent.com/ogw/ADea4I6ue6ul3ozCcUYNy63qPsdyJ5zRRK5GenxA4mELWg=s192-c-mo" />
+          <Avatar url="https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/default-avatar.png" />
         </div>
       </header>
 
@@ -68,6 +68,10 @@ export default function Home() {
             I'm Feeling Lucky
           </button>
         </div>
+
+        <button hidden onClick={search}>
+          Search
+        </button>
       </form>
 
       <Footer />

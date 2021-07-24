@@ -50,7 +50,7 @@ const Header = () => {
 
         <Avatar
           classes="ml-auto"
-          url="https://lh3.googleusercontent.com/ogw/ADea4I6ue6ul3ozCcUYNy63qPsdyJ5zRRK5GenxA4mELWg=s192-c-mo"
+          url="https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/default-avatar.png"
         />
       </div>
 
