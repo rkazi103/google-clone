@@ -35,7 +35,7 @@ To get an API key, click [here](https://developers.google.com/custom-search/v1/i
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/rkazi103/google-clone
 ```
 
 Go to the project directory
