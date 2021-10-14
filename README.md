@@ -59,7 +59,3 @@ Start the server
 ## Roadmap
 
 - Add user authentication
-
-## Support
-
-For support, email me at rayan.quack.you@gmail.com
